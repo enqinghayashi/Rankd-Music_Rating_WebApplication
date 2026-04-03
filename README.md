@@ -66,6 +66,8 @@ Set these environment variables (via `.env` for local Docker, or in your AWS env
 
 We deployed this app to AWS behind a custom domain with HTTPS, so it could be accessed globally via a standard website link.
 
+- Previously deployed at: https://www.rankdmusic.online
+
 > The original domain/hosted resources have since expired or been torn down, so the public URL may no longer be reachable today.
 
 ### High-level Architecture
