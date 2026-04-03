@@ -214,9 +214,16 @@ Two images were shared in chat:
 1. App UI screenshot (Scores page)
 2. AWS deployment flowchart
 
-They are not yet present in the repository, so this section is a placeholder.
+They are now included in this repository:
 
-- Suggested path: `docs/images/ui-screenshot.png`
-- Suggested path: `docs/images/aws-deployment-flow.png`
+- UI screenshots:
+  - `docs/images/ui-screenshot1.jpg`
+  - `docs/images/ui-screenshot2.jpg`
+- AWS flow diagram:
+  - `docs/images/aws-deployment-flow.png`
 
-Once the image files are added, you can link them here.
+![Rankd UI screenshot 1](images/ui-screenshot1.jpg)
+
+![Rankd UI screenshot 2](images/ui-screenshot2.jpg)
+
+![AWS deployment flow](images/aws-deployment-flow.png)
