@@ -12,6 +12,8 @@ Rankd is a music rating web app where users can rate tracks/albums/artists and g
 
 This README focuses on running/deploying the app via Docker (and AWS). For the original team-project documentation and screenshots, see [README_CITS3403_PROJECT.md](README_CITS3403_PROJECT.md).
 
+For the full Cloud Computing / AWS deployment write-up, see [docs/AWS_Cloud_Deployment_Report.md](docs/AWS_Cloud_Deployment_Report.md).
+
 ## Prerequisites
 
 - Spotify API access (typically requires a Spotify Premium account).
